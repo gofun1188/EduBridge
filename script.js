@@ -19,7 +19,7 @@ const courseData = {
             <h4>🏆 適合學習對象</h4>
             <p>適合所有年齡層與程度的學員，無論您是完全初學者，或是希望精進技巧的舞者。</p>
         `,
-        lineUrl: "https://line.me/ti/p/UgDPsa4pFb"
+        lineUrl: "https://line.me/ti/p/Fe2YQXfuXn"
     },
     crystal: {
     title: "手作水晶",
@@ -142,7 +142,7 @@ const courseData = {
             <h4>🏪 創業發展機會</h4>
             <p>課程涵蓋成本計算與產品開發，適合有意從事手工皂事業的學員。</p>
         `,
-        lineUrl: "https://line.me/ti/p/UgDPsa4pFb"
+        lineUrl: "https://line.me/ti/p/Fe2YQXfuXn"
     },
     candle: {
         title: "香氛蠟燭製作",
@@ -163,7 +163,7 @@ const courseData = {
             <h4>🎁 生活應用</h4>
             <p>適合居家使用或作為精美禮品，也可發展為手作事業。</p>
         `,
-        lineUrl: "https://line.me/ti/p/UgDPsa4pFb"
+        lineUrl: "https://line.me/ti/p/Fe2YQXfuXn"
     },
     coffee: {
         title: "手沖咖啡",
@@ -184,7 +184,7 @@ const courseData = {
             <h4>🎯 學習目標</h4>
             <p>掌握精品咖啡的沖煮技術，提升生活品味，享受咖啡文化。</p>
         `,
-        lineUrl: "https://line.me/ti/p/UgDPsa4pFb"
+        lineUrl: "https://line.me/ti/p/Fe2YQXfuXn"
     },
     baking: {
         title: "烘焙課程",
@@ -205,7 +205,7 @@ const courseData = {
             <h4>❤️ 學習效益</h4>
             <p>掌握烘焙技術、享受創作樂趣、分享美味給親友，也可發展為事業。</p>
         `,
-        lineUrl: "https://line.me/ti/p/UgDPsa4pFb"
+        lineUrl: "https://line.me/ti/p/Fe2YQXfuXn"
     },
     organizer: {
         title: "收納整理師",
@@ -268,7 +268,7 @@ const courseData = {
             <h4>👗 創作樂趣</h4>
             <p>製作專屬服飾、修改衣物、發揮創意設計，享受手作的成就感。</p>
         `,
-        lineUrl: "https://line.me/ti/p/UgDPsa4pFb"
+        lineUrl: "https://line.me/ti/p/Fe2YQXfuXn"
     },
     knitting: {
         title: "編織課程",
@@ -310,7 +310,7 @@ const courseData = {
             <h4>🏡 生活應用</h4>
             <p>美化居家環境、製作特殊場合花藝，也可發展為專業花藝師。</p>
         `,
-        lineUrl: "https://line.me/ti/p/UgDPsa4pFb"
+        lineUrl: "https://line.me/ti/p/Fe2YQXfuXn"
     },
     gardening: {
         title: "園藝栽培",
@@ -352,7 +352,7 @@ const courseData = {
             <h4>🖼️ 藝術發展</h4>
             <p>培養藝術鑑賞能力、發展個人創作風格、參與藝術展覽活動。</p>
         `,
-        lineUrl: "https://line.me/ti/p/UgDPsa4pFb"
+        lineUrl: "https://line.me/ti/p/Fe2YQXfuXn"
     },
 
     pottery: {
@@ -374,7 +374,7 @@ const courseData = {
             <h4>🏮 藝術療癒</h4>
             <p>在創作中找到內心平靜、發揮創意潛能、製作實用藝術品。</p>
         `,
-        lineUrl: "https://line.me/ti/p/UgDPsa4pFb"
+        lineUrl: "https://line.me/ti/p/Fe2YQXfuXn"
     },
 };
 
