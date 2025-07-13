@@ -58,7 +58,7 @@ const courseData = {
         <h4>👥 適合學習對象</h4>
         <p>適合想要透過手作療癒身心、提升生活品質，並希望發展第二收入的朋友。無論是初學者或有經驗者，都能在課程中找到屬於自己的創作方向。</p>
     `,
-    lineUrl: "https://line.me/ti/p/awGrSsNQQt"
+    lineUrl: "https://line.me/ti/p/pN2qGwYH9C"
 },
     family_dance: {
         title: "親子舞蹈",
@@ -373,6 +373,134 @@ const courseData = {
             
             <h4>🏮 藝術療癒</h4>
             <p>在創作中找到內心平靜、發揮創意潛能、製作實用藝術品。</p>
+        `,
+        lineUrl: "https://line.me/ti/p/Fe2YQXfuXn"
+    },
+    
+    metalwork_ring: {
+        title: "金工戒指課",
+        subtitle: "打造專屬的手作飾品",
+        image: "mis/金工戒指.jpg",
+        description: `
+            <h4>💍 精緻金屬工藝的藝術</h4>
+            <p style="margin-bottom: 20px;">學習金工技法，親手製作獨一無二的戒指。在錘打與雕琢中，體驗金屬工藝的精緻美學，創造專屬於您的珍貴飾品。</p>
+            
+            <h4>🔨 專業金工技能</h4>
+            <ul style="margin-bottom: 20px; padding-left: 20px;">
+                <li><strong>基礎技法：</strong>金屬切割、焊接、拋光技巧</li>
+                <li><strong>設計創作：</strong>戒指設計、尺寸調整</li>
+                <li><strong>表面處理：</strong>紋理製作、氧化處理</li>
+                <li><strong>鑲嵌技巧：</strong>寶石鑲嵌、細節雕琢</li>
+            </ul>
+            
+            <h4>✨ 專屬價值</h4>
+            <p style="margin-bottom: 20px;">每一枚戒指都是獨一無二的藝術品，承載著製作者的心意與巧思。</p>
+            
+            <div style="background: linear-gradient(135deg, #FFE5B4 0%, #FFF0E6 100%); padding: 20px; border-radius: 15px; margin-bottom: 20px; border-left: 4px solid #D4AF37;">
+                <h4 style="color: #B8860B; margin-bottom: 10px;">💎 學習效益</h4>
+                <p style="color: #666; margin-bottom: 8px;">✔️ 掌握專業金工技術</p>
+                <p style="color: #666; margin-bottom: 8px;">✔️ 創作個人專屬飾品</p>
+                <p style="color: #666; margin-bottom: 0;">✔️ 可發展為專業工藝師</p>
+            </div>
+            
+            <h4>👥 適合對象</h4>
+            <p>適合對手作工藝有興趣、希望學習精緻技藝的學員。無論是想為自己或親友製作專屬飾品，或是有意發展金工事業的朋友。</p>
+        `,
+        lineUrl: "https://line.me/ti/p/Fe2YQXfuXn"
+    },
+    
+    tarot_beginner: {
+        title: "塔羅初階班",
+        subtitle: "探索內在智慧的神秘鑰匙",
+        image: "mis/塔羅初階.jpg",
+        description: `
+            <h4>🔮 古老智慧的現代應用</h4>
+            <p style="margin-bottom: 20px;">塔羅牌是連接意識與潛意識的橋樑，學習塔羅不僅是占卜技巧，更是深度的自我探索與內在智慧的開發。</p>
+            
+            <h4>🎴 完整學習內容</h4>
+            <ul style="margin-bottom: 20px; padding-left: 20px;">
+                <li><strong>牌義解讀：</strong>78張塔羅牌的象徵意義</li>
+                <li><strong>牌陣運用：</strong>各種牌陣的擺法與解讀</li>
+                <li><strong>直覺開發：</strong>培養直覺力與洞察力</li>
+                <li><strong>實務練習：</strong>為自己與他人解牌</li>
+            </ul>
+            
+            <h4>🌟 個人成長效益</h4>
+            <p style="margin-bottom: 20px;">透過塔羅學習，更深入了解自己的內在世界，獲得生活指引與心靈成長。</p>
+            
+            <div style="background: linear-gradient(135deg, #E6E6FA 0%, #F0F8FF 100%); padding: 20px; border-radius: 15px; margin-bottom: 20px; border-left: 4px solid #9370DB;">
+                <h4 style="color: #6B46C1; margin-bottom: 10px;">🌙 學習收穫</h4>
+                <p style="color: #666; margin-bottom: 8px;">✔️ 開發直覺與洞察力</p>
+                <p style="color: #666; margin-bottom: 8px;">✔️ 深度自我探索</p>
+                <p style="color: #666; margin-bottom: 0;">✔️ 獲得生活指引與智慧</p>
+            </div>
+            
+            <h4>🎯 適合對象</h4>
+            <p>適合對神秘學有興趣、希望透過塔羅進行自我探索，或想學習占卜技巧的朋友。無論是個人成長需求或專業發展，都能在課程中找到收穫。</p>
+        `,
+        lineUrl: "https://line.me/ti/p/pN2qGwYH9C"
+    },
+    
+    spiritual_sensing: {
+        title: "靈性感知課",
+        subtitle: "開啟內在感知與能量覺察",
+        image: "mis/靈性感知.jpg",
+        description: `
+            <h4>🌟 覺醒內在的感知力</h4>
+            <p style="margin-bottom: 20px;">透過專業的引導與練習，開啟您與生俱來的靈性感知能力。學習感受能量流動、提升直覺力，建立與內在智慧的深度連結。</p>
+            
+            <h4>🧘‍♀️ 系統化學習內容</h4>
+            <ul style="margin-bottom: 20px; padding-left: 20px;">
+                <li><strong>能量基礎：</strong>認識人體能量場與脈輪系統</li>
+                <li><strong>感知訓練：</strong>培養敏銳的能量感知能力</li>
+                <li><strong>冥想練習：</strong>深度冥想與靈性連結</li>
+                <li><strong>保護清理：</strong>能量保護與淨化技巧</li>
+            </ul>
+            
+            <h4>✨ 靈性成長效益</h4>
+            <p style="margin-bottom: 20px;">提升生活品質、增強直覺判斷力、建立內在平靜與和諧。</p>
+            
+            <div style="background: linear-gradient(135deg, #F0FFF0 0%, #E6F3FF 100%); padding: 20px; border-radius: 15px; margin-bottom: 20px; border-left: 4px solid #20B2AA;">
+                <h4 style="color: #008B8B; margin-bottom: 10px;">🌈 學習效益</h4>
+                <p style="color: #666; margin-bottom: 8px;">✔️ 提升敏銳的感知能力</p>
+                <p style="color: #666; margin-bottom: 8px;">✔️ 建立內在平靜與和諧</p>
+                <p style="color: #666; margin-bottom: 0;">✔️ 增強生活的直覺指引</p>
+            </div>
+            
+            <h4>🌸 適合對象</h4>
+            <p>適合對靈性成長有興趣、希望提升感知能力或尋求內在平靜的朋友。無論是初學者或已有經驗的修行者，都能在課程中獲得深度的成長。</p>
+        `,
+        lineUrl: "https://line.me/ti/p/pN2qGwYH9C"
+    },
+    
+    mobile_photography: {
+        title: "手機擺拍課",
+        subtitle: "用手機拍出專業級美照",
+        image: "mis/手機擺拍.jpg",
+        description: `
+            <h4>📸 手機攝影的無限可能</h4>
+            <p style="margin-bottom: 20px;">在人人都是攝影師的時代，學會用手機拍出專業級美照是必備技能。從基礎操作到美學構圖，讓您的作品脫穎而出。</p>
+            
+            <h4>🎨 專業攝影技巧</h4>
+            <ul style="margin-bottom: 20px; padding-left: 20px;">
+                <li><strong>基礎操作：</strong>手機攝影功能全解析</li>
+                <li><strong>構圖美學：</strong>黃金比例、視覺引導線</li>
+                <li><strong>光影運用：</strong>自然光、人工光源技巧</li>
+                <li><strong>後製修圖：</strong>APP應用與修圖技巧</li>
+            </ul>
+            
+            <h4>📱 實用應用領域</h4>
+            <p style="margin-bottom: 20px;">人像攝影、美食拍攝、商品攝影、旅遊紀錄、社群媒體內容創作。</p>
+            
+            <div style="background: linear-gradient(135deg, #FFE4E1 0%, #FFF5EE 100%); padding: 20px; border-radius: 15px; margin-bottom: 20px; border-left: 4px solid #FF6B6B;">
+                <h4 style="color: #E74C3C; margin-bottom: 10px;">💡 學習效益</h4>
+                <p style="color: #666; margin-bottom: 8px;">✔️ 掌握專業攝影技巧</p>
+                <p style="color: #666; margin-bottom: 8px;">✔️ 提升社群媒體影響力</p>
+                <p style="color: #666; margin-bottom: 0;">✔️ 可發展攝影相關事業</p>
+            </div>
+            
+            <h4>🎯 適合對象</h4>
+            <p>適合想提升攝影技能的朋友，包括社群媒體經營者、小資創業者、攝影愛好者，以及希望記錄生活美好瞬間的所有人。</p>
         `,
         lineUrl: "https://line.me/ti/p/Fe2YQXfuXn"
     },
